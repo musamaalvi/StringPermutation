@@ -10,6 +10,13 @@ namespace StringPermutation
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Enter String");
+            string word = Console.ReadLine();
+
+            Permutation obj = new Permutation();
+
+            Console.WriteLine(obj.CheckPermutation(word));
+            Console.ReadKey();
         }
     }
 }
