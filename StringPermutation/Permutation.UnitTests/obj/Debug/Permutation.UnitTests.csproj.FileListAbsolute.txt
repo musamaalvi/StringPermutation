@@ -1,0 +1,17 @@
+C:\Users\mualvi\Documents\Vitrue\StringPermutation\StringPermutation\Permutation.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mualvi\Documents\Vitrue\StringPermutation\StringPermutation\Permutation.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mualvi\Documents\Vitrue\StringPermutation\StringPermutation\Permutation.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mualvi\Documents\Vitrue\StringPermutation\StringPermutation\Permutation.UnitTests\bin\Debug\Permutation.UnitTests.dll
+C:\Users\mualvi\Documents\Vitrue\StringPermutation\StringPermutation\Permutation.UnitTests\bin\Debug\Permutation.UnitTests.pdb
+C:\Users\mualvi\Documents\Vitrue\StringPermutation\StringPermutation\Permutation.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\mualvi\Documents\Vitrue\StringPermutation\StringPermutation\Permutation.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\mualvi\Documents\Vitrue\StringPermutation\StringPermutation\Permutation.UnitTests\bin\Debug\StringPermutation.exe
+C:\Users\mualvi\Documents\Vitrue\StringPermutation\StringPermutation\Permutation.UnitTests\bin\Debug\StringPermutation.pdb
+C:\Users\mualvi\Documents\Vitrue\StringPermutation\StringPermutation\Permutation.UnitTests\bin\Debug\StringPermutation.exe.config
+C:\Users\mualvi\Documents\Vitrue\StringPermutation\StringPermutation\Permutation.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\mualvi\Documents\Vitrue\StringPermutation\StringPermutation\Permutation.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\mualvi\Documents\Vitrue\StringPermutation\StringPermutation\Permutation.UnitTests\obj\Debug\Permutation.UnitTests.csproj.AssemblyReference.cache
+C:\Users\mualvi\Documents\Vitrue\StringPermutation\StringPermutation\Permutation.UnitTests\obj\Debug\Permutation.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\mualvi\Documents\Vitrue\StringPermutation\StringPermutation\Permutation.UnitTests\obj\Debug\Permutation.UnitTests.csproj.CopyComplete
+C:\Users\mualvi\Documents\Vitrue\StringPermutation\StringPermutation\Permutation.UnitTests\obj\Debug\Permutation.UnitTests.dll
+C:\Users\mualvi\Documents\Vitrue\StringPermutation\StringPermutation\Permutation.UnitTests\obj\Debug\Permutation.UnitTests.pdb

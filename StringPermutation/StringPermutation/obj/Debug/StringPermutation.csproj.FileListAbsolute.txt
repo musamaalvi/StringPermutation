@@ -1,0 +1,7 @@
+C:\Users\mualvi\Documents\Vitrue\StringPermutation\StringPermutation\StringPermutation\bin\Debug\StringPermutation.exe.config
+C:\Users\mualvi\Documents\Vitrue\StringPermutation\StringPermutation\StringPermutation\bin\Debug\StringPermutation.exe
+C:\Users\mualvi\Documents\Vitrue\StringPermutation\StringPermutation\StringPermutation\bin\Debug\StringPermutation.pdb
+C:\Users\mualvi\Documents\Vitrue\StringPermutation\StringPermutation\StringPermutation\obj\Debug\StringPermutation.csproj.AssemblyReference.cache
+C:\Users\mualvi\Documents\Vitrue\StringPermutation\StringPermutation\StringPermutation\obj\Debug\StringPermutation.csproj.CoreCompileInputs.cache
+C:\Users\mualvi\Documents\Vitrue\StringPermutation\StringPermutation\StringPermutation\obj\Debug\StringPermutation.exe
+C:\Users\mualvi\Documents\Vitrue\StringPermutation\StringPermutation\StringPermutation\obj\Debug\StringPermutation.pdb
